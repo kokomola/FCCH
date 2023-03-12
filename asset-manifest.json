@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FCCH/static/css/main.700a1a57.css",
+    "main.js": "/FCCH/static/js/main.4d7c5736.js",
+    "static/js/787.445dfa09.chunk.js": "/FCCH/static/js/787.445dfa09.chunk.js",
+    "static/media/like.png": "/FCCH/static/media/like.4c1c17058c13f740b170.png",
+    "index.html": "/FCCH/index.html",
+    "main.700a1a57.css.map": "/FCCH/static/css/main.700a1a57.css.map",
+    "main.4d7c5736.js.map": "/FCCH/static/js/main.4d7c5736.js.map",
+    "787.445dfa09.chunk.js.map": "/FCCH/static/js/787.445dfa09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700a1a57.css",
+    "static/js/main.4d7c5736.js"
+  ]
+}
